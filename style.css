@@ -1,0 +1,10 @@
+h1 {
+    font-size: 75px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    background: linear-gradient(orangered, white, lime);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-left: 300px;
+}
